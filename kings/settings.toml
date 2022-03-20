@@ -1,0 +1,9 @@
+[store]
+brands=[
+    "kings-adidas-male",
+    "kings-adidas-female",
+    "kings-nike-male",
+    "kings-nike-female"
+]
+[gcp]
+GOOGLE_APPLICATION_CREDENTIALS="./credentials/credentials.json"
